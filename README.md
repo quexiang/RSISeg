@@ -11,13 +11,15 @@ DL-based interactive segmentation is a good solution for balancing the expert kn
 
 http://tickmap.nkn.uidaho.edu/rsis/isegm
 
+## How to use this tool:
+
+
 ## How to configure it locally?
-This tool consists of two parts: front-end and back-end. Since the back-end model is still being trained and debugged, it has not been announced yet. Users can try using the local configuration through the following steps.
+This tool consists of two parts: the front end and the back end. The back-end model has not been announced yet since it is still being trained and debugged. Users can try using the local configuration by following the following steps.
 
-# Step 1  Setting the backend connection
+## Step 1  Setting the backend connection
 
-
-# Setp 2  Install and configure nginx locally
+## Setp 2  Install and configure nginx locally
 
 
 
