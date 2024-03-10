@@ -1,7 +1,7 @@
 ## RSISeg
  An interactive semantic segmentation tool for remote sensing images.
 
-## Why to use this tool?
+## Why do you need this tool?
 
 Remote sensing image segmentation has long been a practical topic. Traditional fine segmentation mainly relies on meticulous manual work and expert experience. Deep learning（DL）technologies are making rapid progress in semantic segmentation. Many remote sensing scientists would like to utilize these new technologies fully. However, they are still worried that relying solely on these technologies will not achieve the same segmentation results as using their expertise. 
 
