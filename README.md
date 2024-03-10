@@ -23,11 +23,11 @@ https://github.com/quexiang/RSISeg/assets/37957804/d6ef8aca-a538-4105-8e53-0ebe7
 
 
 ## How to configure it locally?
-This tool consists of two parts: the front end and the back end. The back-end model has not been announced yet since it is still being trained and debugged. Users can try using the local configuration by following the following steps.
+This tool consists of two parts: the front end and the back end. The back-end model has yet to be announced since it is still being trained and debugged. Users can try using the local configuration by following the following steps.
 
-## Step 1  Setting the backend connection
+## Step 1.  Setting the backend connection
 
-## Setp 2  Install and configure nginx locally
+## Step 2. Install and configure nginx locally
 
 
 
