@@ -27,9 +27,8 @@ This tool consists of two parts: the front end and the back end. The back-end mo
 
 Users will be able to try to use it locally by following the configuration steps below (More details will come soon):
 
-## Step 1.  Setting the backend connection "URL".
-
-## Step 2. Install and configure the front-end code locally.
+Step 1.  Setting the backend connection "URL".
+Step 2. Install and configure the front-end code locally.
 
 
 
