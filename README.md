@@ -3,9 +3,9 @@
 
 ## Why to use this tool?
 
-Remote sensing image segmentation has long been a practical topic.Traditional fine segmentation mainly relies on meticulous manual work and expert experience. Deep learning（DL）technologies are making rapid progress in semantic segmentation. Many remote sensing scientists would like to utilize these new technologies fully, but they still worried that relying solely on these technologies will not achieve the same segmentation results as using their own expertise. 
+Remote sensing image segmentation has long been a practical topic. Traditional fine segmentation mainly relies on meticulous manual work and expert experience. Deep learning（DL）technologies are making rapid progress in semantic segmentation. Many remote sensing scientists would like to utilize these new technologies fully. However, they are still worried that relying solely on these technologies will not achieve the same segmentation results as using their expertise. 
 
-DL-based interactive segmentation is a good solution for balancing the expert knowledge and learning machines, thus addressing this concern. Here we presented an interactive segmentation tool for remote-sensing images. 
+DL-based interactive segmentation is a good solution for balancing expert knowledge and learning machines, thus addressing this concern. Here we presented an interactive segmentation tool for remote-sensing images. 
 
 ## Access this web-based tool via: 
 
@@ -14,7 +14,11 @@ http://tickmap.nkn.uidaho.edu/rsis/isegm
 ## How to use this tool:
 
 
-https://github.com/quexiang/RSISeg/assets/37957804/b04d5c37-2983-4ef4-af19-22478b193878
+
+
+https://github.com/quexiang/RSISeg/assets/37957804/d6ef8aca-a538-4105-8e53-0ebe793d1698
+
+
 
 
 
