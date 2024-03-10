@@ -14,6 +14,10 @@ http://tickmap.nkn.uidaho.edu/rsis/isegm
 ## How to use this tool:
 
 
+https://github.com/quexiang/RSISeg/assets/37957804/b04d5c37-2983-4ef4-af19-22478b193878
+
+
+
 ## How to configure it locally?
 This tool consists of two parts: the front end and the back end. The back-end model has not been announced yet since it is still being trained and debugged. Users can try using the local configuration by following the following steps.
 
