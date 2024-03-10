@@ -7,7 +7,7 @@ Remote sensing image segmentation has long been a practical topic. Traditional f
 
 DL-based interactive segmentation is a good solution for balancing expert knowledge and learning machines, thus addressing this concern. Here we presented an interactive segmentation tool for remote-sensing images. 
 
-## Access this web-based tool via: 
+## Access this web-based tool via (Note: this server currently uses CPU, which is relatively slow during interactions. However, the server is being upgraded and will soon be installed with GPU, which can greatly increase the interaction rate): 
 
 http://tickmap.nkn.uidaho.edu/rsis/isegm
 
